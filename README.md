@@ -24,6 +24,7 @@ The project aims to analyse available location and crowd data to help users make
 - Scikit-learn
 - HTML, CSS and JavaScript
 - SQLite
+- MAP API's
 - OpenStreetMap and Leaflet.js
 
 ## Project Status
