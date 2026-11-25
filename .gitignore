@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# She Safe project specific files
+.vscode/
+.DS_Store
+Thumbs.db
